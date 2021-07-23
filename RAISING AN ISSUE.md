@@ -1,9 +1,5 @@
----
+## Raising an issue
 
-
----
-
-<p>Raising an issue<br>
 We are actively on the look out to make this tool better and we allow users to raise issues they encounter when using PHPSandbox CLI. Issues would likely fall in either as</p>
 <ol>
 <li>Bug report</li>
