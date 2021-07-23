@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct</h1>
 <h2 id="our-pledge">Our Pledge</h2>
 <p>We as members, contributors, and leaders pledge to make participation in our<br>
